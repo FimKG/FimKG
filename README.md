@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FimKG
-- 👀 I’m interested in Front-End using React, Angular and Javascript
+- 👀 I’m interested in Front-End using React, Angular, Apex, LWC components and Javascript
 - 🌱 I’m currently learning Angular and Java SpringBoot(basics)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
